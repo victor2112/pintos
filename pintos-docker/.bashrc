@@ -108,7 +108,7 @@ source $OSH/oh-my-bash.sh
 # alias ohmybash="mate ~/.oh-my-bash"
 export PATH=$PATH:~/pintos/utils
 export PINTOS_HOME=~/pintos # coloque la ruta al código fuente del pj
-export PATH=$PATH:/home/benyamin/pintos/utils
+export PATH=$PATH:/home/pintos/utils
 
 export PINTOS_HOME=~/pintos
 PINTOSPH="" # stop@000001
